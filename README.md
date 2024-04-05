@@ -112,6 +112,9 @@ To run this Canvas Object Detection project, follow these steps:
 
 **Demo** 
 
+
+https://august-shield-411906.wm.r.appspot.com/
+
 <br> 
 
 <img src="https://github.com/ShanhengChen/Personal-Project/assets/85982820/953b1a7d-f710-4202-86e4-41f9500e342e.gif" alt="BFS" style="width:70%; height:70%;">
