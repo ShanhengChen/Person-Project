@@ -289,3 +289,13 @@ The Weather query site fetches data from free weather API ( OpenWeatherMap API) 
 **Victoria Weather Hub demo:**
 ![Weather query site demo](https://github.com/ShanhengChen/Personal-Project/assets/85982820/677e974f-f489-4cb0-808d-696eb1f6723d)
 
+
+# Movie Recommendation System - Medium-fidelity Prototyping 
+
+**Demo**
+
+
+https://github.com/ShanhengChen/Personal-Project/assets/85982820/8428d75e-1ed6-425a-a142-c82a287f1b71
+
+
+
