@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanheng Chen</h1>
-<h3 align="center">A passionate frontend developer from University of Victoria</h3>
+<h3 align="center">A passionate CS New Grad from University of Victoria</h3>
 
 - 👯 I’m looking for **Frontend / Backend developer**
 
