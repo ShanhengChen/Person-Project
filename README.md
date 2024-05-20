@@ -133,7 +133,7 @@ To run this Canvas Object Detection project, follow these steps:
 **Demo** 
 
 
-https://august-shield-411906.wm.r.appspot.com/
+[https://august-shield-411906.wm.r.appspot.com/](https://august-shield-411906.wm.r.appspot.com/)
 
 <br> 
 
