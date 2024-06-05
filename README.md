@@ -288,6 +288,15 @@ Embark on the adrenaline-pumping journey of "2D Vampire Survival-Like Game," a 2
     click 2d Vampire Survival game.txt and run the game
      
     ```
+
+# Flappy Bird Remake 
+
+# Gold Rush Showdown
+
+# Classic Space Battle 
+
+# Rhythm Master
+     
 # Victoria Weather Hub
 
 **Description**
